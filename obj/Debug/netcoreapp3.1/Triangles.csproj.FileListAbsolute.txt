@@ -1,0 +1,14 @@
+E:\.net\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.exe
+E:\.net\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.deps.json
+E:\.net\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.runtimeconfig.json
+E:\.net\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.runtimeconfig.dev.json
+E:\.net\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.dll
+E:\.net\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.pdb
+E:\.net\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.csproj.AssemblyReference.cache
+E:\.net\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.AssemblyInfoInputs.cache
+E:\.net\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.AssemblyInfo.cs
+E:\.net\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.csproj.CoreCompileInputs.cache
+E:\.net\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.dll
+E:\.net\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.pdb
+E:\.net\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.genruntimeconfig.cache
